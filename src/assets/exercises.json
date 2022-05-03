@@ -1,0 +1,173 @@
+{
+	"count": 24,
+	"results":[
+		{
+			"id": "bench_press",
+			"name": "Bench Press",
+			"mainMuscle": "Chest",
+			"musclesWorked": ["Chest", "Triceps", "Shoulders"],
+			"equipment": ["Resistance", "Barbell", "Dumbbell"]
+		},
+		{
+			"id": "chest_dip",
+			"name": "Chest Dip",
+			"mainMuscle": "Chest",
+			"musclesWorked": ["Chest", "Shoulders", "Triceps", "Back"],
+			"equipment": ["Machine"]
+		},
+		{
+			"id": "chest_press",
+			"name": "Chest Press",
+			"mainMuscle": "Chest",
+			"musclesWorked": ["Chest", "Shoulders", "Triceps"],
+			"equipment": ["Resistance", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "push_up",
+			"name": "Push Up",
+			"mainMuscle": "Chest",
+			"musclesWorked": ["Chest", "Triceps", "Shoulders"],
+			"equipment": ["None", "Resistance"]
+		},
+		{
+			"id": "shoulder_press",
+			"name": "Shoulder Press",
+			"mainMuscle": "Shoulders",
+			"musclesWorked": ["Shoulders", "Triceps", "Back"],
+			"equipment": ["Resistance", "Barbell", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "military_press",
+			"name": "Military Press",
+			"mainMuscle": "Shoulders",
+			"musclesWorked": ["Shoulders", "Triceps", "Back"],
+			"equipment": ["Resistance", "Barbell", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "front_raise",
+			"name": "Front Raise",
+			"mainMuscle": "Shoulders",
+			"musclesWorked": ["Shoulders", "Back"],
+			"equipment": ["Resistance", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "upright_row",
+			"name": "Upright Row",
+			"mainMuscle": "Shoulders",
+			"musclesWorked": ["Shoulders", "Back", "Biceps"],
+			"equipment": ["Resistance", "Barbell", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "lateral_raise",
+			"name": "Lateral Raise",
+			"mainMuscle": "Shoulders",
+			"musclesWorked": ["Shoulders", "Back"],
+			"equipment": ["Resistance", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "reverse_fly",
+			"name": "Reverse Fly",
+			"mainMuscle": "Shoulders",
+			"musclesWorked": ["Shoulders", "Back"],
+			"equipment": ["Resistance", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "triceps_dip",
+			"name": "Triceps Dip",
+			"mainMuscle": "Triceps",
+			"musclesWorked": ["Triceps", "Shoulders", "Chest", "Back"],
+			"equipment": ["Machine"]
+		},
+		{
+			"id": "close_grip_push_up",
+			"name": "Close Grip Push Up",
+			"mainMuscle": "Triceps",
+			"musclesWorked": ["Triceps", "Chest", "Shoulders"],
+			"equipment": ["None", "Resistance"]
+		},
+		{
+			"id": "triceps_extension",
+			"name": "Triceps Extension",
+			"mainMuscle": "Triceps",
+			"musclesWorked": ["Triceps"],
+			"equipment": ["Resistance", "Barbell", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "biceps_curl",
+			"name": "Biceps Curl",
+			"mainMuscle": "Biceps",
+			"musclesWorked": ["Biceps"],
+			"equipment": ["Resistance", "Barbell", "Dumbbell", "Machine"]
+		},
+		{
+			"id": "chin_up",
+			"name": "Chin Up",
+			"mainMuscle": "Biceps",
+			"musclesWorked": ["Biceps", "Back", "Shoulders"],
+			"equipment": ["Machine"]
+		},
+		{
+			"id": "bent-over_row",
+			"name": "Bent-over Row",
+			"mainMuscle": "Back",
+			"musclesWorked": ["Back", "Shoulders"],
+			"equipment": ["Resistance", "Barbell", "Dumbbell"]
+		},
+		{
+			"id": "seated_row",
+			"name": "Seated Row",
+			"mainMuscle": "Back",
+			"musclesWorked": ["Back", "Shoulders"],
+			"equipment": ["Resistance", "Machine"]
+		},
+		{
+			"id": "pull_up",
+			"name": "Pull Up",
+			"mainMuscle": "Back",
+			"musclesWorked": ["Back", "Shoulders", "Biceps"],
+			"equipment": ["Machine"]
+		},
+		{
+			"id": "pulldown",
+			"name": "Pulldown",
+			"mainMuscle": "Back",
+			"musclesWorked": ["Back", "Shoulders", "Biceps"],
+			"equipment": ["Resistance", "Machine"]
+		},
+		{
+			"id": "shrug",
+			"name": "Shrug",
+			"mainMuscle": "Back",
+			"musclesWorked": ["Legs"],
+			"equipment": ["Barbell", "Dumbbell"]
+		},
+		{
+			"id": "deadlift",
+			"name": "Deadlift",
+			"mainMuscle": "Legs",
+			"musclesWorked": ["Legs"],
+			"equipment": ["Barbell"]
+		},
+		{
+			"id": "squat",
+			"name": "Squat",
+			"mainMuscle": "Legs",
+			"musclesWorked": ["Legs"],
+			"equipment": ["None", "Resistance", "Barbell"]
+		},
+		{
+			"id": "leg_press",
+			"name": "Leg Press",
+			"mainMuscle": "Legs",
+			"musclesWorked": ["Legs"],
+			"equipment": ["Resistance", "Machine"]
+		},
+		{
+			"id": "leg_curl",
+			"name": "Leg Curl",
+			"mainMuscle": "Legs",
+			"musclesWorked": ["Legs"],
+			"equipment": ["Resistance", "Machine"]
+		}
+	]
+}
